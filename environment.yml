@@ -1,3 +1,4 @@
 dependencies:
-- octave_kernel
+- xeus-octave
 - octave
+- octave_kernel
