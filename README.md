@@ -11,4 +11,6 @@ If you want to get mathematica on jupyter for free you may also follow this guid
 
 https://nicoguaro.github.io/posts/wolfram_jupyter/
 
+Alternatively you may use binder, and run the notebooks online, it may take a while to run though, there you can't save so download the notebook by click file download as ipyb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mcditoos/Numerical_Methods/HEAD)
 
