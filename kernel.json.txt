@@ -1,0 +1,13 @@
+```
+{
+    "transport": "tcp",
+    "ip": "127.0.0.1",
+    "control_port": 63806,
+    "shell_port": 63802,
+    "stdin_port": 63804,
+    "iopub_port": 63803,
+    "hb_port": 63805,
+    "signature_scheme": "hmac-sha256",
+    "key": "3cf28600-b4a37d0cb130a96cb5cf1aca"
+}
+```
