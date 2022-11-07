@@ -1,4 +1,5 @@
 dependencies:
 - xeus-octave
 - octave
-- octave_kernel
+- numpy
+- matplotlib
